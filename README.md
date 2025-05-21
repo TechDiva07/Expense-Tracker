@@ -1,2 +1,2 @@
 # Expense-Tracker
-Website to track the expense and balance
+Website to track the expense and balance.
